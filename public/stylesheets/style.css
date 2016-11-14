@@ -48,6 +48,7 @@ h1 {
 .logonav {
   height: 40px;
   width: 40px;
+  padding-right: 1vw;
 }
 
 .submit {
